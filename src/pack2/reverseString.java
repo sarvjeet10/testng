@@ -1,0 +1,17 @@
+package pack2;
+
+public class reverseString {
+	
+	public static void main(String args[]){
+		String s1 = "javadeveloper";
+		String s2 ="";
+		for(int i=s1.length()-1;i>=0;i--){
+			s2+=s1.charAt(i);
+		}
+		System.out.println(s2+" is the reverse of the given string "+s1);
+
+StringBuilder sb1 = new StringBuilder("java");
+System.out.println(sb1.reverse().toString());
+
+	}
+}
