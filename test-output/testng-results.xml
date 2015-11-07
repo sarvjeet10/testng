@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26" started-at="2015-10-29T05:46:43Z" finished-at="2015-10-29T05:46:43Z">
+    <groups>
+      <group name="st">
+        <method signature="NewTest.createcustomertest()[pri:0, instance:TestNG.NewTest@1b0375b3]" name="createcustomertest" class="TestNG.NewTest"/>
+      </group> <!-- st -->
+    </groups>
+    <test name="Default test" duration-ms="26" started-at="2015-10-29T05:46:43Z" finished-at="2015-10-29T05:46:43Z">
+      <class name="TestNG.NewTest">
+        <test-method status="PASS" signature="createcustomertest()[pri:0, instance:TestNG.NewTest@1b0375b3]" name="createcustomertest" duration-ms="13" started-at="2015-10-29T11:16:43Z" finished-at="2015-10-29T11:16:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcustomertest -->
+      </class> <!-- TestNG.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
